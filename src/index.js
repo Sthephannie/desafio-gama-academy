@@ -1,3 +1,4 @@
-const Data = require('./data/Calculo')
+const data = require('./data/Calculo')
+const Show = require('./controler')
 
-console.log(Data)
+Show(data)
