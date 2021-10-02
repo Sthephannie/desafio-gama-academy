@@ -1,3 +1,3 @@
-const Data = require('../data/Calculo')
+const Data = require('./data/Calculo')
 
 console.log(Data)
